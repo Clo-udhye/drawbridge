@@ -48,14 +48,12 @@ _____
 8. The vehicle blockers rise to let cars drive on the bridge again.
 
 ## Structure Design
-![structure-design](/image/structure-design.png)
+![structure-design](/static/image/structure-design.png)
 
 ## Circuit Diagram
 ### Ship
-![circuit-diagram-ship](/image/circuit-diagram-ship.png)
+![circuit-diagram-ship](/static/image/circuit-diagram-ship.png)
 
 ### Bridge
-![circuit-diagram-bridge01](/image/circuit-diagram-bridge01.png)
-![circuit-diagram-bridge02](/image/circuit-diagram-bridge02.png)
-![circuit-diagram-bridge02](https://youtu.be/egRPFZcXdx4)
-[![d](/image/circuit-diagram-bridge02.png)](https://youtu.be/egRPFZcXdx4)
+![circuit-diagram-bridge01](/static/image/circuit-diagram-bridge01.png)
+![circuit-diagram-bridge02](/static/image/circuit-diagram-bridge02.png)
